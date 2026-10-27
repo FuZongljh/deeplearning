@@ -39,13 +39,11 @@
 - **已完成**：
   - [x] Miniconda安装，conda 26.7.1 验证通过
   - [x] 明确三Python共存原理（conda activate base后python --version验证）
+  - [x] GitHub仓库 `deeplearning` 建好
+  - [x] **显卡型号** CUDA Version: 13.0，NVIDIA GeForce RTX 4050
+  - [x] 本文件commit到GitHub
 - **待完成（今晚/近日）**：
-  - [ ] **显卡型号**（今晚任务二遗留，明天定制PyTorch安装命令的关键）
-  - [ ] GitHub仓库 `remote-sensing-learning` 建好
   - [ ] GitHub订阅/通知设置
-  - [ ] 两块外接盘建目录结构
-  - [ ] 实验日志本开张（手写+每周日电子版存盘B）
-  - [ ] 本文件commit到GitHub
 - **下一步（第2天起）**：装PyTorch（先 `conda create -n rs python=3.10`，再按显卡型号装对应版本）→ VSCode选conda环境作为解释器 → 开始SegFormer相关学习
 
 ## 五、待跟踪事项（长期）
