@@ -23,7 +23,7 @@
 
 ## 三、设备与环境
 
-- **电脑**：Windows 11，C盘剩余130G，够用不买硬盘
+- **电脑**：Windows 11
 - **编辑器**：PyCharm + VSCode（已装，保留）
 - **Python共存现状**：系统Python 3.13.7 / Miniconda base 3.12（conda 26.7.1验证通过）/ 学习用环境将建 python=3.10
 - **存储分工（C盘 + 盘A，无盘B）**：
@@ -40,6 +40,7 @@
   - [x] GitHub仓库 `remote-sensing-learning` 建好
   - [x] MASTER.md 建立
   - [x] 显卡型号：**NVIDIA GeForce RTX 4050，CUDA Version: 13.0**
+  - [x] Git克隆到本地，VSCode流程走通
 - **第2天任务（2026-10-28）**：
   - [ ] `conda create -n rs python=3.10` 建独立环境
   - [ ] 按显卡型号装PyTorch（命令等AI按型号给）
