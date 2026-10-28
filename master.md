@@ -42,11 +42,14 @@
   - [x] 显卡型号：**NVIDIA GeForce RTX 4050，CUDA Version: 13.0**
   - [x] Git克隆到本地，VSCode流程走通
 - **第2天任务（2026-10-28）**：
-  - [ ] `conda create -n rs python=3.10` 建独立环境
-  - [ ] 按显卡型号装PyTorch（命令等AI按型号给）
-  - [ ] `torch.cuda.is_available()` 验证GPU可用
-  - [ ] VSCode选择rs环境作为解释器，跑通第一个 `print("hello")`
-- **下一步预告**：第3天起进入PyTorch基础学习（张量操作→自动求导→第一个小模型）
+  - [x] `conda create -n rs python=3.11` 建独立环境
+  - [x] 按显卡型号装PyTorch（命令等AI按型号给）
+  - [x] `torch.cuda.is_available()` 验证GPU可用
+  - [x] VSCode选择rs环境作为解释器，跑通第一个 `print("hello")`
+  - **第3天任务（2026-10-29）**：
+  - [ ] 安装 d2l，下载《动手学深度学习》课程代码
+  - [ ] 跟李沐第二集，跑通第一段张量代码
+  - **下一步预告**：第3天起进入PyTorch基础学习（张量操作→自动求导→第一个小模型）
 
 ## 五、待跟踪事项（长期）
 
